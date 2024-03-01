@@ -89,6 +89,16 @@ h2 {
     margin: 0;
   }
 
+  /* #small {
+    width: 88px;
+    height: 45px;
+  }
+
+  #smaller {
+    width: 35px;
+    height: 50px;
+  } */
+
   .designs {
     flex: auto;
     width: 90px;
