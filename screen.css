@@ -3,24 +3,67 @@
 body {
     margin: 0 auto;
 }
+
 img {
-    /* margin-left: 60px;
-    margin-top: 60px; */
     width: 65px;
     height: 65px;
-    /* padding-right: 20px; */
-    
+    padding-right: 20px; 
+    vertical-align: middle;
+}
+
+span {
+    vertical-align: middle;
+}
+
+.logo {
+    margin-left: 60px;
+    margin-top: 60px; 
 }
 
 h1 {
     font-family: "Josefin Sans", sans-serif;
-    /* font-optical-sizing: auto;  */
     font-size: 36px;
     font-weight: bold;
     margin: 0 auto;
 }
 
-/* .box {
-    display: flex;
-    align-items:center;
- } */
+h2 {
+    font-family: "Josefin Sans", sans-serif;
+    margin: 0 auto;
+}
+
+#boldH2 {
+    font-weight: bold;
+}
+
+.card {
+    margin: auto;
+    width: 58%;
+    /* width: 400px;
+    height: 300px; */
+    /* border-radius: 20px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);  */
+    font-family: "Josefin Sans", sans-serif;
+    padding-top: 150px;
+}
+
+.profileIMG {
+    float: left;
+    margin-right: 20px;
+    width: 154.11px;
+    height: 160px;
+}
+
+.DIY {
+    background: #E1F1FE;
+    color: #598B8C;
+    margin: 0 auto;
+    width: 164px;
+    height: 132px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    font-family: "Josefin Sans", sans-serif;
+}
+
+
+
