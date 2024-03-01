@@ -38,11 +38,7 @@ h2 {
 
 .card {
     margin: auto;
-    width: 58%;
-    /* width: 400px;
-    height: 300px; */
-    /* border-radius: 20px;
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);  */
+    width: 53.4%;
     font-family: "Josefin Sans", sans-serif;
     padding-top: 150px;
 }
@@ -57,45 +53,49 @@ h2 {
 .DIY {
     background: rgba(181, 129, 129);
     color: #FFFF;
-    /* width: 100px; */
     height: 32px;
     border-radius: 10px 10px 0 0;
     font-family: "Josefin Sans", sans-serif;
     text-align: center;
-    margin-left: 300px;
+    margin-left: 348.5px;
     margin-top: 71px;
     width: 12%;
     padding-top: 12px;
 }
 
 .designs-margin {
-    flex: auto;
-    padding-left: 12px;
-    padding-right: 12px;
     background: rgba(181, 129, 129, .12);
-    /* width: 100px; */
-    height: 377px;
-    border-radius: 10px 10px 0 0;
-    font-family: "Josefin Sans", sans-serif;
-    text-align: center;
-    margin-left: 300px;
-    margin-top: 25px;
-    width: 90%;
-    padding-top: 12px;
+    width: 799px;
+    height: 275px;
+    border-radius:  0 5px 10px 5px;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /* padding-left: 12px;
+    padding-right: 12px; */
 }
 
 .designs-list-1 {
     display: flex;
     list-style: none;
-    padding-inline-start: 12px;
+    padding-left: 0;
+    margin: 0;
   }
 
 .designs-list-2 {
     display: flex;
-    margin-top: 25px;
     list-style: none;
-    padding-inline-start: 12px;
+    padding-left: 0;
+    margin: 0;
   }
 
-
+  .designs {
+    flex: auto;
+    width: 90px;
+    height: 90px;
+    padding-top: 25px;
+    padding-left: 21.6px;
+    padding-right: 21.6px;
+    padding-bottom: 25px;
+}
 
