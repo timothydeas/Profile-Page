@@ -55,14 +55,18 @@ h2 {
 }
 
 .DIY {
-    background: #E1F1FE;
-    color: #598B8C;
-    margin: 0 auto;
+    background: rgba(181, 129, 129);
+    color: #FFFF;
     width: 164px;
-    height: 132px;
-    border-radius: 10px;
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    height: 32px;
+    border-radius: 10px 10px 0 0;
     font-family: "Josefin Sans", sans-serif;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 71px;
+    width: 13%;
+    padding-top: 12px;
+
 }
 
 
