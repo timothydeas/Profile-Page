@@ -57,17 +57,45 @@ h2 {
 .DIY {
     background: rgba(181, 129, 129);
     color: #FFFF;
-    width: 164px;
+    /* width: 100px; */
     height: 32px;
     border-radius: 10px 10px 0 0;
     font-family: "Josefin Sans", sans-serif;
     text-align: center;
     margin-left: 300px;
     margin-top: 71px;
-    width: 13%;
+    width: 12%;
     padding-top: 12px;
-
 }
+
+.designs-margin {
+    flex: auto;
+    padding-left: 12px;
+    padding-right: 12px;
+    background: rgba(181, 129, 129, .12);
+    /* width: 100px; */
+    height: 377px;
+    border-radius: 10px 10px 0 0;
+    font-family: "Josefin Sans", sans-serif;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 25px;
+    width: 90%;
+    padding-top: 12px;
+}
+
+.designs-list-1 {
+    display: flex;
+    list-style: none;
+    padding-inline-start: 12px;
+  }
+
+.designs-list-2 {
+    display: flex;
+    margin-top: 25px;
+    list-style: none;
+    padding-inline-start: 12px;
+  }
 
 
 
